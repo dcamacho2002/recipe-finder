@@ -31,7 +31,9 @@ A web app that locates recipes based on ingredients inputted by the user. A Serv
 3. **Set up Spoonacular API Key**
    - Sign up for a Spoonacular API key: https://spoonacular.com/food-api
    - In the Scripted REST Resource code, replace:
+     ```javascript
        var apiKey = "SPOONACULAR_API_KEY";
+     ```
      with your own API key.
 
 4. **Run the app**
