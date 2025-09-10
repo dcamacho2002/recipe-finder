@@ -6,7 +6,7 @@ A web app that locates recipes based on ingredients inputted by the user. A Serv
 - Fetch recipes through Spoonacular API
 - Display recipe title, image, and external link
 
-## Technologies
+## Built With
 - ServiceNow UI Pages and Client Scripts
 - Scripted REST Resource
 - JavaScript, HTML/CSS
