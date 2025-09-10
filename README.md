@@ -37,7 +37,8 @@ A web app that locates recipes based on ingredients inputted by the user. A Serv
      with your own API key.
 
 4. **Run the app**
-   - Naviage the UI Page in your developer instance to test application.
+   - Navigate the UI Page in your developer instance to test application.
    - Enter any ingredients and click "Find Recipes".
+   - Click the blue "View Recipe" button for desired recipe, which will lead to a new tab.
    - Example UI Page with ingredients entered:
      ![Screenshot 2025-09-08 at 9 51 25 AM](https://github.com/user-attachments/assets/4fb39ebb-ddfe-4926-a1ac-bf4c9497db73)
